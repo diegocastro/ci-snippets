@@ -45,6 +45,7 @@ If you find error or whatever just fork it and send me a pull request.
 #### Helper
 
 * anchor
+* db_insert_id
 * form_checkbox
 * form_dropdown
 * form_hidden
@@ -78,6 +79,7 @@ If you find error or whatever just fork it and send me a pull request.
 * db_insert
 * db_select
 * db_update
+* db_join
 * db_where
 * db_last
 * db_order
@@ -134,3 +136,4 @@ If you find error or whatever just fork it and send me a pull request.
 - Luis Leite
 - José Tomás Tocino
 - Marcelo Diniz
+- Diego Castro
