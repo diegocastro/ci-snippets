@@ -79,6 +79,7 @@ If you find error or whatever just fork it and send me a pull request.
 * db_insert
 * db_select
 * db_update
+* db_from
 * db_join
 * db_where
 * db_last
