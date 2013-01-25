@@ -82,6 +82,7 @@ If you find error or whatever just fork it and send me a pull request.
 * db_from
 * db_join
 * db_where
+* db_like
 * db_last
 * db_order
 * db_result
